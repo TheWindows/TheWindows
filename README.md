@@ -5,5 +5,5 @@
  <br>
  also i make websites too you can give my projects stars its would help me alot
 
-![22548559-ezgif com-resize](https://github.com/user-attachments/assets/12da782a-8d5a-482a-91e1-8a14f0f6fccf)
+![431455346-0563b646-a708-4e73-a990-e9e689e2f15c (1)](https://github.com/user-attachments/assets/3158dfb3-c7c4-4b6e-bda6-e39d6de27487)
 
