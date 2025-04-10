@@ -18,4 +18,5 @@ Discord: TheWindowsJava
 <br>
 <br>
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheWindows&show_icons=true&theme=transparent)](https://github.com/TheWindows)
+<br>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheWindows&layout=compact&theme=transparent)](https://github.com/TheWindows
