@@ -17,5 +17,5 @@ Discord: TheWindowsJava
 My Status:
 <br>
 <br>
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheWindows&show_icons=true&theme=radical)](https://github.com/TheWindows)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheWindows&layout=compact&theme=radical)](https://github.com/TheWindows
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheWindows&show_icons=true&theme=transparent)](https://github.com/TheWindows)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheWindows&layout=compact&theme=transparent)](https://github.com/TheWindows
