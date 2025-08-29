@@ -8,7 +8,8 @@ I'm a passionate **PocketMine Developer** and **Web Developer** creating plugins
 - **Languages & Tools**: 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
   ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)
-
+  ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
+  
 ## 📱 Connect with Me
 - **Telegram**: [@DeadMk40](https://t.me/DeadMk40)
 - **Discord**: TheWindowsJava
