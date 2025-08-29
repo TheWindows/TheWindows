@@ -1,21 +1,25 @@
+# 👋 Welcome to My GitHub! I'm @TheWindows
 
-# 👋 Hi I’m @TheWindows
+I'm a passionate **PocketMine Developer** and **Web Developer** creating plugins and websites. I love building projects that make a difference! Feel free to explore my repositories, and if you like what you see, ⭐ **star** my projects to show your support—it means a lot!
 
- im a small PocketMine Developer 
- <br>
- also i make websites too you can give my projects stars its would help me alot
+## 🛠️ Skills & Technologies
+- **PocketMine**: Crafting plugins for Minecraft Bedrock servers
+- **Web Development**: Building websites with modern frameworks and tools
+- **Languages & Tools**: 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+  ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)
+  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 
-![431455346-0563b646-a708-4e73-a990-e9e689e2f15c (1)](https://github.com/user-attachments/assets/3158dfb3-c7c4-4b6e-bda6-e39d6de27487) ![Js Html Sticker by codearock (1)](https://github.com/user-attachments/assets/af110083-93bb-4c1e-a7da-1401758aa786)![React Js Sticker by EscuelaDevRock (1)](https://github.com/user-attachments/assets/8e61cb05-31e2-493d-a9b8-c4a8b78e1eb6)
+## 📱 Connect with Me
+- **Telegram**: [@DeadMk40](https://t.me/DeadMk40)
+- **Discord**: TheWindowsJava
 
-social medias:
-<br>
-<br>
-Telegram: @DeadMk40
-<br>
-Discord: TheWindowsJava
+## 📊 My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheWindows&show_icons=true&theme=blue-green)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheWindows&layout=compact&theme=blue-green)
 
-My Stats:
-<br>
-<br>
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheWindows&show_icons=true&theme=blue-green)](https://github.com/TheWindows)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheWindows&layout=compact&theme=blue-green)](https://github.com/TheWindows)
+## 🚀 Featured Projects
+- **[Project Name]**: Brief description of a key project. [Link to repo]
+- **[Project Name]**: Brief description of another project. [Link to repo]
+
+*Want to collaborate or have an idea? Reach out on Telegram or Discord!*
