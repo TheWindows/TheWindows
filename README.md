@@ -17,8 +17,4 @@ I'm a passionate **PocketMine Developer** and **Web Developer** creating plugins
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheWindows&show_icons=true&theme=blue-green)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheWindows&layout=compact&theme=blue-green)
 
-## 🚀 Featured Projects
-- **[Project Name]**: Brief description of a key project. [Link to repo]
-- **[Project Name]**: Brief description of another project. [Link to repo]
-
 *Want to collaborate or have an idea? Reach out on Telegram or Discord!*
