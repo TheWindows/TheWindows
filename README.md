@@ -11,7 +11,7 @@ I'm a passionate **PocketMine Developer** and **Web Developer** creating plugins
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
   
 ## 📱 Connect with Me
-- **Telegram**: [@DeadMk40](https://t.me/DeadMk40)
+- **Telegram**: [@IMMM_Bardia](https://t.me/IMMM_Bardia)
 - **Discord**: TheWindowsJava
 
 ## 📊 My GitHub Stats
